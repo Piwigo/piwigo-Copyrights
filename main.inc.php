@@ -59,6 +59,9 @@ function copyrights_admin_menu($menu) {
   return $menu;
 }
 
+// add API function
+add_event_handler('ws_invoke_allowed', 'copyrights_ws_images_setInfo', EVENT_HANDLER_PRIORITY_NEUTRAL, 3);
+
 
 /* +-----------------------------------------------------------------------+
  * | Plugin image                                                          |
