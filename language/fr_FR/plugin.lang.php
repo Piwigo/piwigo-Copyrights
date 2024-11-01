@@ -8,7 +8,5 @@ $lang['Delete copyright'] = 'supprimer un droit d\'auteur';
 $lang['Visible'] = 'Visible';
 $lang['This copyright already exists.'] = 'Ce droit d\'auteur existe déjà';
 $lang['Set copyright'] = 'Régler un droit d\'auteur';
-$lang['With copyright'] = 'Avec un droit d\'auteur copyright';
+$lang['With copyright'] = 'Avec un droit d\'auteur';
 $lang['Without copyright'] = 'Sans droit d\'auteur';
-
-?>
